@@ -4,3 +4,9 @@ C:\Users\ethan\OneDrive\Desktop\DC\Assignment1_ChatApp\ChatContracts\obj\Debug\C
 C:\Users\ethan\OneDrive\Desktop\DC\Assignment1_ChatApp\ChatContracts\obj\Debug\ChatContracts.csproj.CoreCompileInputs.cache
 C:\Users\ethan\OneDrive\Desktop\DC\Assignment1_ChatApp\ChatContracts\obj\Debug\ChatContracts.dll
 C:\Users\ethan\OneDrive\Desktop\DC\Assignment1_ChatApp\ChatContracts\obj\Debug\ChatContracts.pdb
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatContracts\bin\Debug\ChatContracts.dll
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatContracts\bin\Debug\ChatContracts.pdb
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatContracts\obj\Debug\ChatContracts.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatContracts\obj\Debug\ChatContracts.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatContracts\obj\Debug\ChatContracts.dll
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatContracts\obj\Debug\ChatContracts.pdb

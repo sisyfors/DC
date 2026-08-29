@@ -11,6 +11,12 @@ namespace ChatContracts
     public interface IChatService
     {
         [OperationContract]
-        string TestConnection();
+        bool SignIn(string userId, out string reason);
+
+        [OperationContract]
+        bool SignOut(string userId, out string reason);
+
+        [OperationContract]
+        List<Channel> GetChannels();
     }
 }

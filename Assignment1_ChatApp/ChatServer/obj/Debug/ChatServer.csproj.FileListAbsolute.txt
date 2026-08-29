@@ -8,3 +8,13 @@ C:\Users\ethan\OneDrive\Desktop\DC\Assignment1_ChatApp\ChatServer\obj\Debug\Chat
 C:\Users\ethan\OneDrive\Desktop\DC\Assignment1_ChatApp\ChatServer\obj\Debug\ChatServer.csproj.Up2Date
 C:\Users\ethan\OneDrive\Desktop\DC\Assignment1_ChatApp\ChatServer\obj\Debug\ChatServer.exe
 C:\Users\ethan\OneDrive\Desktop\DC\Assignment1_ChatApp\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatServer\bin\Debug\ChatContracts.dll
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatServer\bin\Debug\ChatContracts.pdb
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatServer\obj\Debug\ChatServer.csproj.Up2Date
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\ethan\source\repos\DC\Assignment1_ChatApp\ChatServer\obj\Debug\ChatServer.pdb
