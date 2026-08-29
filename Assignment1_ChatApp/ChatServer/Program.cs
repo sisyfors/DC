@@ -13,6 +13,7 @@ namespace ChatServer
         {
             ServiceHost host = new ServiceHost(typeof(ChatService));
 
+            host.Open();
 
             Console.WriteLine("Chat server started.");
             Console.WriteLine("Press ENTER to stop the server.");
